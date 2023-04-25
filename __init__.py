@@ -1,8 +1,8 @@
-from math_game import add
+from math_game import*
   def game():
     score = 0
   while True:
-  print('======== Menu ========\n1. Add')
+  print('======== Menu ======== \n 1.Add \n 2.Resta \n 3.Multiplicación \n 4. División")
   operation = int(input('Choice an operation:
 '))
   num_1 = input('Enter first number: ')
