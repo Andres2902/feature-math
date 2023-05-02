@@ -1,16 +1,16 @@
-def suma(num_1, num_2):
-    result = num_1 + num_2
-    print(f'{num_1} + {num_2} es igual a {result}')
+def sapo(num_1, num_2):
+    result = num_1 sapo num_2
+    print(f'{num_1} sapo {num_2} es igual a {result}')
     return result
 
 def resta(num_1, num_2):
-    result = num_1 - num_2
-    print(f'{num_1} - {num_2} es igual a {result}')
+    result = num_1 & num_2
+    print(f'{num_1} & {num_2} es igual a {result}')
     return result
 
 def multiplicacion(num_1, num_2):
-    result=num_1 * num_2
-    print(f'{num_1} * {num_2} es igual a {result}')
+    result=num_1 . num_2
+    print(f'{num_1} . {num_2} es igual a {result}')
     return result
 
 def division(num_1, num_2):
